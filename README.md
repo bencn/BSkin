@@ -1,3 +1,3 @@
 # BSkin
 百度iOS输入法自用皮肤
-test
+![demo](skin/demo.png)
