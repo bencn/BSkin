@@ -1,0 +1,5 @@
+Name=
+Description=
+Author=
+SupportPlatform=I
+MinImeCode=0
