@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		B50BE5321E818007004DBE07 /* b.bdi */ = {isa = PBXFileReference; lastKnownFileType = file; path = b.bdi; sourceTree = "<group>"; };
 		B51256121E5AB9F0000AD0B0 /* demo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = demo.png; sourceTree = "<group>"; };
 		B51256131E5AB9F0000AD0B0 /* Info.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Info.txt; sourceTree = "<group>"; };
 		B51256151E5AB9F0000AD0B0 /* cand.cnd */ = {isa = PBXFileReference; lastKnownFileType = text; path = cand.cnd; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 				B51256111E5AB9F0000AD0B0 /* skin */,
 				B51256811E5AB9F0000AD0B0 /* README.md */,
 				B51256801E5AB9F0000AD0B0 /* LICENSE */,
+				B50BE5321E818007004DBE07 /* b.bdi */,
 			);
 			sourceTree = "<group>";
 		};
